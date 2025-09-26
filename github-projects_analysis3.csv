@@ -1,0 +1,11 @@
+everyone-s-garden;everyonesgarden-v2;everyone-s-garden/everyonesgarden-v2;.github/workflows/sonar.yml;sonar;false
+nslhb;JavaMavenTestRepo;nslhb/JavaMavenTestRepo;.github/workflows/pr-workflow.yaml;sonar;false
+Haross;githubActionsTest;Haross/githubActionsTest;.github/workflows/main.yml;sonar;false
+dtim-upc;ODIN;dtim-upc/ODIN;.github/workflows/main.yml;sonar;false
+dtim-upc;ODIN-old;dtim-upc/ODIN-old;.github/workflows/main.yml;sonar;false
+joyfulviper;citron;joyfulviper/citron;.github/workflows/sonarcloud.yml;sonar;false
+SE2Organization;Wizard;SE2Organization/Wizard;.github/workflows/build.yml;sonar;false
+bm402;authenticator-api;bm402/authenticator-api;.github/workflows/gradle-pr.yml;sonar;false
+hanjo8813;cicd-test;hanjo8813/cicd-test;.github/workflows/ci-pr.yml;sonar;false
+Lovely-4K;love-backend;Lovely-4K/love-backend;.github/workflows/sonarcloud.yml;sonar;false
+bm402;authenticator-lib;bm402/authenticator-lib;.github/workflows/gradle-pr.yml;sonar;false

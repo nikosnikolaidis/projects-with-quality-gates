@@ -1,0 +1,7 @@
+dtim-upc;ODIN-old;dtim-upc/ODIN-old;.github/workflows/main.yml;sonar;false
+nslhb;JavaMavenTestRepo;nslhb/JavaMavenTestRepo;.github/workflows/pr-workflow.yaml;sonar;false
+bm402;authenticator-api;bm402/authenticator-api;.github/workflows/gradle-pr.yml;sonar;false
+Haross;githubActionsTest;Haross/githubActionsTest;.github/workflows/main.yml;sonar;false
+SE2Organization;Wizard;SE2Organization/Wizard;.github/workflows/build.yml;sonar;false
+dtim-upc;ODIN;dtim-upc/ODIN;.github/workflows/main.yml;sonar;false
+bm402;authenticator-lib;bm402/authenticator-lib;.github/workflows/gradle-pr.yml;sonar;false
